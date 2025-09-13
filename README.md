@@ -5,4 +5,4 @@ This project is an interactive Sales Dashboar dcreated using Excel. It analyzes 
 <li>Excel <li>
 Pivot Table <li>
 DAX Functions <li>
-Report using WORD 
+Word 
